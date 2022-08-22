@@ -1,4 +1,8 @@
 ## 👋 Greetings! Welcome to my GitHub profile.
+I'm an enthusiastic coder who is always keen on picking up a new project while working on 6 others, because I like a challenge. Currently studying Software Engineering at Edinburgh Napier University, entering my 3rd year.
+
+## :hammer: Current projects
+Calnex Solution Internal Projects (<img height=32em, width=32em, src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />, <img height=32em, width=32em, src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />, :whale: , <img height=32em, width=32em, src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /> + frontend)
 
 <!--
 **Lawful24/Lawful24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
