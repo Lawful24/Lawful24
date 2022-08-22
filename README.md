@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lawful24&show_icons=true&bg_color=20,02aab0,00cdac&title_color=fff&text_color=fff" alt="Profile Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lawful24&show_icons=true&bg_color=20,41295a,2f0743&title_color=e4e4e4&text_color=e4e4e4" alt="Profile Stats" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawful24&layout=compact&bg_color=20,00cdac,02aab0&title_color=fff&text_color=fff" alt="Languages Used In Public Repos" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawful24&layout=compact&bg_color=20,41295a,2f0743&title_color=e4e4e4&text_color=e4e4e4" alt="Languages Used In Public Repos" />
   </a>
 </div>
