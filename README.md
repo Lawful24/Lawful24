@@ -1,8 +1,10 @@
 ## 👋 Greetings! Welcome to my GitHub profile.
 I'm an enthusiastic coder who is always keen on picking up a new project while working on 6 others, because I like a challenge. Currently studying Software Engineering at Edinburgh Napier University, entering my 3rd year.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lawful24.visitor-badge&left_color=teal&right_color=grey&left_text=Seen%20By)
+
 ## :hammer: Current projects
-Calnex Solution Internal Projects (<img height=32em, width=32em, src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />, <img height=32em, width=32em, src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />, :whale: , <img height=32em, width=32em, src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /> + frontend)
+- [Colour picker game](https://github.com/Lawful24/colour-picker-mobile.git), a mobile app powered by <img height=20em, width=20em, src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/flutter-white.svg#gh-dark-mode-only" />
 
 <!--
 **Lawful24/Lawful24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
