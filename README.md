@@ -48,16 +48,16 @@ I'm an enthusiastic coder who is always keen on picking up a new project while w
 
 ---
 
-## :chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats from Public Repos
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lawful24&show_icons=true&bg_color=20,41295a,2f0743&title_color=e4e4e4&text_color=e4e4e4" alt="Profile Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawful24&show_icons=true&count_private=true&include_all_commits=true&theme=solarized-dark" alt="Profile Stats from Public Repos" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawful24&layout=compact&bg_color=20,41295a,2f0743&title_color=e4e4e4&text_color=e4e4e4" alt="Languages Used In Public Repos" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawful24&layout=compact&line_height=50&theme=solarized-dark" alt="Languages Used In Public Repos" />
   </a>
 </div>
 
