@@ -1,7 +1,8 @@
 ## 👋 Greetings!
-I'm an enthusiastic coder who is always keen on picking up a new project while working on 6 others, because I like a challenge. Currently studying Software Engineering at [Edinburgh Napier University](https://www.napier.ac.uk/), entering my 3rd year.
+I'm an enthusiastic coder who is always keen on picking up a new project while working on 6 others because I can't catch a break. Currently studying Software Engineering at [Edinburgh Napier University](https://www.napier.ac.uk/), entering my 4th year. I graduated from the IB Diploma Programme in 2020 where I studied Computer Science at a higher level, with a final grade of 6 and submitted a [Computer Science Internal Assessment](https://github.com/Lawful24/Studio-Application) which achieved a grade of 7. This GitHub Profile contains both university and personal projects. 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lawful24.visitor-badge&left_color=teal&right_color=grey&left_text=Seen%20By)
+![Visitor Badge](https://komarev.com/ghpvc/?username=lawful24&color=green&style=flat) [![Github](https://img.shields.io/github/followers/lawful24?label=Follow&style=social)](https://github.com/lawful24)
+<br/><br/>
 
 ---
 
