@@ -16,6 +16,7 @@ I'm an enthusiastic coder who is always keen on picking up a new project while w
 ## :books: Actively Learning
 <a href="https://react.dev/" target="_blank"><img height=40em, width=40em, src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React icon" /></a>
 <a href="https://www.ibm.com/topics/blockchain" target="_blank"><img height=40em, width=40em, src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="React icon" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img height=40em, width=40em, src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" alt="nginx icon" /></a>
 
 ---
 
