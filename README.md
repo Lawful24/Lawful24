@@ -7,16 +7,15 @@ I'm an enthusiastic coder who is always keen on picking up a new project while w
 ---
 
 ## :hammer: Current Projects
-- Honours Project (Efficient Renewable Energy Distribution in a Multi-Agent System using IoT): <a href="https://react.dev/" target="_blank"><img height=20em, width=20em, src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React icon" /></a> <a href="https://www.ibm.com/topics/blockchain" target="_blank"><img height=20em, width=20em, src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="React icon" /></a>
+- Honours Project (Efficient Renewable Energy Distribution in a Multi-Agent System using Smart Contracts): <a href="https://jade-project.gitlab.io/" target="_blank"><img height=20em, width=20em, src="https://jade-project.gitlab.io/img/logoJadeJ.png" alt="JADE icon" /></a> <a href="https://www.java.com/en/" target="_blank"><img height=20em, width=20em, src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java icon" /></a> <a href="https://www.docker.com/" target="_blank"><img height=20em, width=30em, src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Moby.png" alt="Docker icon" /></a> <a href="https://www.ibm.com/topics/blockchain" target="_blank"><img height=20em, width=20em, src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="Blockchain icon" /></a>
 - [Corstorphine Table Tennis Club website](https://www.corstorphinett.club/): <a href="https://html.com/" target="_blank"><img height=20em, width=20em, src="https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" alt="HTML icon" /></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img height=20em, width=20em, src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS icon" /></a> <a href="https://www.javascript.com/"><img height=20em, width=20em, src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript icon" /></a> and for reasons beyond my understanding, <a href="https://sites.google.com/" target="_blank"><img height=20em, width=20em, src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Google_Sites_%282014-2020%29.svg/2048px-Google_Sites_%282014-2020%29.svg.png" alt="Google Sites icon" /></a>
 - [Colour picker game on mobile](https://github.com/Lawful24/colour-picker-mobile.git): <a href="https://flutter.dev/" target="_blank"><img height=20em, width=20em, src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" alt="Flutter icon" /></a>
 
 ---
 
 ## :books: Actively Learning
-<a href="https://react.dev/" target="_blank"><img height=40em, width=40em, src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React icon" /></a>
-<a href="https://www.ibm.com/topics/blockchain" target="_blank"><img height=40em, width=40em, src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="React icon" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img height=40em, width=40em, src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" alt="nginx icon" /></a>
+<a href="https://jade-project.gitlab.io/" target="_blank"><img height=40em, width=40em, src="https://jade-project.gitlab.io/img/logoJadeJ.png" alt="JADE icon" /></a>
+<a href="https://www.ibm.com/topics/blockchain" target="_blank"><img height=40em, width=40em, src="https://cdn-icons-png.flaticon.com/512/2091/2091665.png" alt="Blockchain icon" /></a>
 
 ---
 
